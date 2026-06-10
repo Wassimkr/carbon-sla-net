@@ -1,0 +1,8 @@
+config_idx,w_energy,w_carbon,w_sla,w_renewable,mean_energy_wh,mean_carbon_gco2,mean_sla_violation,model_path
+0,0.5,0.3,0.1,0.1,7211.1955,9.7642,15.9454,checkpoints/ppo/carbon_sla_net_pareto_0_best/best_model.zip
+1,0.3,0.5,0.1,0.1,7275.7855,7.0551,16.8675,checkpoints/ppo/carbon_sla_net_pareto_1_best/best_model.zip
+2,0.1,0.3,0.5,0.1,7204.8092,8.3358,20.7623,checkpoints/ppo/carbon_sla_net_pareto_2_best/best_model.zip
+3,0.3,0.1,0.5,0.1,7019.0016,8.3866,18.5173,checkpoints/ppo/carbon_sla_net_pareto_3_best/best_model.zip
+4,0.4,0.4,0.1,0.1,7058.2896,9.5738,12.9007,checkpoints/ppo/carbon_sla_net_pareto_4_best/best_model.zip
+5,0.2,0.2,0.5,0.1,7281.3549,12.3869,26.3822,checkpoints/ppo/carbon_sla_net_pareto_5_best/best_model.zip
+6,0.3,0.3,0.3,0.1,7144.6267,5.8026,18.7354,checkpoints/ppo/carbon_sla_net_pareto_6_best/best_model.zip

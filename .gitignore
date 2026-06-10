@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment — DO NOT commit
+.venv/
+venv/
+
+# Generated data caches (reproducible from data/electricity_maps_2025/)
+data/cache/
+data/bc_dataset/
+
+# Gurobi solver artefacts
+gurobi.log
+*.lp
+*.mps
+*.sol
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Pytest cache
+.pytest_cache/
+
+# Claude settings
+.claude/
+
+# Solver / runtime logs
+results/evaluation_errors.log
+results/pipeline_run_summary.json
+results/run_evaluation_summary.json

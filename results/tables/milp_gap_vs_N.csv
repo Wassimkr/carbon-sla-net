@@ -1,0 +1,5 @@
+N,method,milp_gap_pct
+10,MILP,0.0000
+10,NSGA-II,9.0471
+20,MILP,0.0000
+20,NSGA-II,22.4889

@@ -1,0 +1,5 @@
+N,method,mean_energy_wh,ci95_energy_wh,mean_sla_violation,mean_carbon_gco2,mean_inference_ms
+10,MILP,552.6634,2.4407,0.0000,0.0000,0.1870
+10,NSGA-II,602.6634,2.4407,0.0000,0.0000,0.1955
+20,MILP,1111.6584,7.4670,0.0000,0.0000,0.3700
+20,NSGA-II,1361.6584,7.4670,0.5000,0.0000,0.3669
